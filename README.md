@@ -1,0 +1,1 @@
+I create an interactive Power BI dashboard to visualize key metrics on Car Sales project such as Cars units sold, total revenue, market share, and more. Firstly I import Multiple Datasets then create visualizations, and gain insights from your data using Power BI.
